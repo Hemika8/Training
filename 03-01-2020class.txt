@@ -1,0 +1,22 @@
+1.What is first browser in market?
+ A) Mosaic+WWW=Netscape. Initial release:1993, Final release:1997. Mosaic combined with Microsoft and released Netscape into the Market.
+2.What is canvas?
+ A) Canvas tag is used to draw graphics. 
+3.Difference between scripting and programming?
+ A) Scripting: We run the programs without compilation. Ex: JavaScript, VBScript and VBA, Perl.
+      Programming: We run the programs with compilation. Ex: C, C++, D, Java.
+      Python sits in both.
+4.If i click link as down the screen should go down and if i clink link as up the screen   should go up without using scrolling?
+ A)
+5.What are in line elements and block elements?
+ A) Inline elements: If we use this element, it takes that font space. Ex:<div>
+       Block elements: If we use this element, it takes the whole line space. Ex:<span>
+6.Difference between <em> and <strong>?
+ A) <em>: Displays text in italic
+      <strong>: Displays text in Bold
+7.How to display a html content in a screen?
+ A) <xmp> my code </xmp>
+8.How to make a html page responsive?
+ A) using <meta> element 
+9.Is that good to made use of <centre>?	
+ A) The centre tag defines the presentation of its contents, it does not describe its contents. We use “text-align” property to centre.
